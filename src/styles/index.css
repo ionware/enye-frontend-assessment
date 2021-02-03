@@ -1,0 +1,16 @@
+@tailwind base;
+
+@tailwind components;
+
+.container {
+  width: 100%;
+}
+
+@screen md {
+  .container {
+    width: 840px;
+    margin: 0 auto;
+  }
+}
+
+@tailwind utilities;
