@@ -1,8 +1,8 @@
 ## Enye Frontend Assessment
-Made with React + Tailwind using `create-react-app` with `craco`. Visit [https://enye-fe.netlify.app](https://enye-fe.netlify.app) for a working Demo.
+Made with React + Tailwind using `create-react-app` with `craco`. Visit [https://enye-feass.netlify.app](https://enye-feass.netlify.app) for a working Demo.
 
 ## What's missing?
-- Filters. Yup. I actually complete this under 5hrs, I wasn't aware those who selected backend during application are meant to do the Frontend assessment too (plus, I ~~dislike~~ love frontend).
+- Filters. Yup. I actually completed this under 4hrs; Phobia for UI wouldn't let me realize that my deadline is near (plus, I ~~dislike~~ love frontend).
 
 ## Getting it to run
 But there is a Demo. Anyway, ensure that you have Node.js installed on your machine (Node.js >= 12), and NPM. Then follow (or just copy) this procedure:
